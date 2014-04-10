@@ -1,3 +1,6 @@
+<h1>Gallery for Adam Docker</h1>
+<h2>Online portfolio of photographer</h2>
+
 http://gallery.mnb-t.com/proj/index.html
 
 http://gallery.mnb-t.com/proj/0_2.html
